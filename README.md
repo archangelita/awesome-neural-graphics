@@ -22,6 +22,7 @@ Neural graphics or in other words AI graphics is a emerging new field of AI and 
 
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (Revisited)](https://arxiv.org/abs/2003.08934)
 - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989)
+- [FoV-NeRF: Foveated Neural Radiance Fields for Virtual Reality (Revisited)](https://arxiv.org/abs/2103.16365)
 - [Extracting Triangular 3D Models, Materials, and Lighting From Images](https://nvlabs.github.io/nvdiffrec/assets/paper.pdf)
 - [Image Features Influence Reaction Time: A Learned Probabilistic Perceptual Model for Saccade Latency](https://arxiv.org/abs/2205.02437)
 - [Implicit Neural Representation for Physics-driven Actuated Soft Bodies](https://cgl.ethz.ch/publications/papers/paperYan22a.php)
